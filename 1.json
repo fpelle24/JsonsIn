@@ -1,9 +1,9 @@
 {
     "id": 1,
     "category": "Alquiler",
-    "name": "Hermoso apartamento en Alquiler Parque Rodó",
+    "name": "Alquiler Parque Rodó",
     "description": "Edificio Jackson. Primer piso al frente muy luminoso, seguro y tranquilo. Ubicado en calle Jackson a 2 cuadra de la rambla, cerca de facultades.2 dormitorios grandes con placares, 2 baños principal y servicio, cocina grande con aéreos y bajo mesada, Pequeño lavadero al frente, Living comedor grande con vista al frente muy luminoso.",
-    "guarantee": "Deposito BHU, Propiedad, Porto, Sura,  ",
+    "guarantee": "Deposito BHU, Propiedad, Porto, Sura, ANDA.  ",
     "cost": 18500,
     "currency": "UYU",
     "expenses": 4000,
@@ -23,5 +23,13 @@
         "img/Inmueble_1/272887794_670086837762088_3817669136356774894_n.jpg",
         "img/Inmueble_1/272899283_670086747762097_722890644002558083_n.jpg",
         "img/Inmueble_1/272930023_670086694428769_4107643510059378038_n.jpg"
-    ]
+    ],
+    "tipo_propiedad": "Apartamento",
+    "m2": "60m2",
+    "banios": 2,
+    "dormitorios": 2,
+    "disposicion": "Frente", 
+    "gastoscomunes": "$ 1200" 
+    "estado": "Excelente estado."
+    "mascotas": "Acepta Mascotas."
 }
